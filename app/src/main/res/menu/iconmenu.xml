@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_policy"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="Private Policy"></item>
+  <item android:id="@+id/menu_rate"
+      android:icon="@drawable/common_full_open_on_phone"
+      android:title="Rate Us"></item>
+    <item android:id="@+id/menu_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"></item>
+</menu>
